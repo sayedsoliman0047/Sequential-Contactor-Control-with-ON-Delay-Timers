@@ -1,6 +1,6 @@
 # Sequential-Contactor-Control-with-ON-Delay-Timers
 
-## 📌 Project Overview
+##  Project Overview
 
 This project implements a **sequential control system** using **two contactors (K1 and K2)** with **ON delay timers**.
 
@@ -8,7 +8,7 @@ The system demonstrates timing-based logic used in industrial automation.
 
 ---
 
-## ⚙️ Functional Requirements
+##  Functional Requirements
 
 * Press **Start**:
 
@@ -22,7 +22,7 @@ The system demonstrates timing-based logic used in industrial automation.
 
 ---
 
-## 🔧 Components Used
+##  Components Used
 
 * Contactor K1 (Main)
 * Contactor K2 (Secondary)
@@ -33,9 +33,9 @@ The system demonstrates timing-based logic used in industrial automation.
 
 ---
 
-## ⚡ Control Logic Explanation
+##  Control Logic Explanation
 
-### 🔹 Start Sequence
+###  Start Sequence
 
 1. Press Start → K1 is energized immediately
 2. Timer t1 starts counting
@@ -43,7 +43,7 @@ The system demonstrates timing-based logic used in industrial automation.
 
 ---
 
-### 🔹 Stop Sequence
+###  Stop Sequence
 
 1. Press Stop:
 
@@ -53,7 +53,7 @@ The system demonstrates timing-based logic used in industrial automation.
 
 ---
 
-## 🧠 Key Concepts
+##  Key Concepts
 
 * Sequential control
 * ON delay timers
@@ -62,19 +62,19 @@ The system demonstrates timing-based logic used in industrial automation.
 
 ---
 
-## 📷 Circuit Diagram
+##  Circuit Diagram
 
 ![Solution](./solution.jpg)
 
 ---
 
-## 🎥 Demo Video
+##  Demo Video
 
 ![video](./video.mp4)
 
 ---
 
-## 🚀 How to Operate
+##  How to Operate
 
 1. Power ON system
 2. Press Start → K1 starts immediately
